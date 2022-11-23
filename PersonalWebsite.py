@@ -28,6 +28,10 @@ with tab4:
     streamlit.subheader("Pov-Ray Stuff")
     image3 = Image.open('3dcode_1.png')
     streamlit.image(image3, caption='code to the rose seen on the first page')
+    streamlit.text('-------------------------------------------------------')
+    image4 = Image.open('3dcode_2.png')
+    streamlit.image(image4, caption - 'code to rose scaled to normal size then falling over, animation over 1 second')
+    
     
 
 
