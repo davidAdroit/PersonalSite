@@ -30,7 +30,7 @@ with tab4:
     streamlit.image(image3, caption='code to the rose seen on the first page')
     streamlit.text('-------------------------------------------------------')
     image4 = Image.open('3dcode_2.png')
-    streamlit.image(image4, caption - 'code to rose scaled to normal size then falling over, animation over 1 second')
+    streamlit.image(image4, caption ='code to rose scaled to normal size then falling over, animation over 1 second')
     
     
 
