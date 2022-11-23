@@ -25,6 +25,9 @@ with tab3:
     image = Image.open('backgroundimage.jpg')
     streamlit.image(image, caption='')
 with tab4:
-    streamlit.subheader("Coming Soon")
+    streamlit.subheader("Pov-Ray Stuff")
+    image3 - Image.open('3dcode_1.png')
+    streamlit.image(image, caption='code to the rose seen on the first page')
+    
 
 
