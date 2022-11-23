@@ -3,7 +3,7 @@ import streamlit
 from PIL import Image
 streamlit.title("David's Website")
 streamlit.subheader("This is basically where I just link my other projects")
-tab1, tab2, tab3, tab4 = streamlit.tabs(["League 1v1 Maker", "WC Predictions", "Info", "3D Object Code"])
+tab1, tab2, tab3, tab4, tab5 = streamlit.tabs(["League 1v1 Maker", "WC Predictions", "Info", "3D Object Code", "Project Poker"])
 with tab1:
     streamlit.subheader("League 1v1 Generator Thing")
     streamlit.success("See it here : https://davidadroit-leagueonevone-leagueapp-oh25hy.streamlit.app/")
