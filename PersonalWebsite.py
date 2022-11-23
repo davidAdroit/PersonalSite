@@ -27,7 +27,7 @@ with tab3:
 with tab4:
     streamlit.subheader("Pov-Ray Stuff")
     image3 - Image.open('3dcode_1.png')
-    streamlit.image(image, caption='code to the rose seen on the first page')
+    streamlit.image(image3, caption='code to the rose seen on the first page')
     
 
 
